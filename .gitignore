@@ -1,0 +1,10 @@
+# Archivos especificos
+objetivos.txt
+
+# Archivos de cache / Directorios
+__pycache__/
+
+# Entornos virtuales (si usas virtualenv o similar)
+entorno/
+
+# Archivos con extenciones en especifico (Ej: *.py - *.txt)
